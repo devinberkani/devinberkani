@@ -1,3 +1,1 @@
 ### Hello 👋
-
-- 🔭 Self-taught programmer
