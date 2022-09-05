@@ -1,4 +1,4 @@
-### Hello 👋
+### Hey, I'm Devin.
 
 I'm a self-taught programmer from Northcentral Ohio, currently working towards a bachelor's degree in Computer Science from Franklin University.
 
